@@ -9,11 +9,11 @@ sites:
   - name: TechBoltX - RSS Feed
     url: https://feeds.feedburner.com/techboltx
 
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: IPv4 IP test
+  url: 185.151.30.224
+  port: 80
+  check: "tcp-ping"
+  ipv6: false
 
   - name: TechBoltX SMTP Server
     url: smtp.techboltx.com
