@@ -22,7 +22,7 @@ sites:
 
 status-website:
   cname: status.techboltx.com  
-  # baseUrl: /techboltx-upptime  # Uncomment if you don't use custom domain
+  baseUrl: /techboltx-upptime  # Uncomment if you don't use custom domain
 
   logoUrl: https://techboltx.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-7-2025-06_13_35-PM_11zon-1.png
   name: TechBoltX Uptime Monitor
