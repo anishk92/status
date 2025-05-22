@@ -4,18 +4,20 @@
     "url": "https://techboltx.com",
     "icon": "https://icons.duckduckgo.com/ip3/techboltx.com.ico",
     "slug": "techbolt-x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4903,
-    "timeDay": 3702,
-    "timeWeek": 4903,
-    "timeMonth": 4903,
-    "timeYear": 4903,
-    "dailyMinutesDown": {}
+    "time": 4458,
+    "timeDay": 2299,
+    "timeWeek": 4458,
+    "timeMonth": 4458,
+    "timeYear": 4458,
+    "dailyMinutesDown": {
+      "2025-05-22": 0
+    }
   },
   {
     "name": "TechBoltX - RSS Feed",
